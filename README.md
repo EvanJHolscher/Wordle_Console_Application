@@ -13,8 +13,17 @@ In traditional wordle, Characters in the correct spot are lit up green, characte
 
 In this version, due to the lack of console color modification capabilities, characters are surrounded by { } when in the incorrect spot, ( ) when not in the word, and [ ] when in the correct spot.
 
+Example 1:
+User Provides proper input and uses hint functionality
+
 ![sample io1](https://user-images.githubusercontent.com/70182638/191555346-b3acf114-5829-4df0-894c-322b02664cf8.png)
 
+Example 2:
+User Provides proper input and guesses word early
+
 ![io2](https://user-images.githubusercontent.com/70182638/191555369-bf4736d1-bf8d-4703-9776-34f6f8d9920b.png)
+
+Example 3:
+User does not provide proper words, and does not guess the word
 
 ![testing](https://user-images.githubusercontent.com/70182638/191555396-c21918c1-03d5-4755-9932-2c5e33b0343b.png)
